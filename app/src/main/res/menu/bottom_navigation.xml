@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_songs1"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/navigation_albums2"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Usage"/>
+
+    <item
+        android:id="@+id/navigation_artists3"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Billing"/>
+
+    <item
+        android:id="@+id/navigation_songs4"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Dashboard"/>
+
+    <item
+        android:id="@+id/navigation_albums5"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Support"/>
+</menu>
