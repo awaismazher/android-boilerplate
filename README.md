@@ -1,3 +1,4 @@
+<!---
 ![banner](https://user-images.githubusercontent.com/37318022/40349145-3e0c8d8a-5dd8-11e8-8654-5784f9ab7554.png)
 
 # Android - Clean Architecture - Kotlin [![Build Status](https://travis-ci.org/android10/Android-CleanArchitecture-Kotlin.svg?branch=master)](https://travis-ci.org/android10/Android-CleanArchitecture-Kotlin)
@@ -80,3 +81,9 @@ https://github.com/android10/java-code-styles
 ![http://www.fernandocejas.com](https://github.com/android10/Sample-Data/blob/master/android10/android10_logo_big.png)
 
 <a href="https://www.buymeacoffee.com/android10" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+
+your comment goes here
+and here
+-->
+
